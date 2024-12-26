@@ -1,0 +1,23 @@
+.cart{
+    color:rgb(144, 84, 11);
+    height: 20px;
+    width: 20px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+
+}
+.option{
+    display:flex;
+    justify-content: space-between;
+}
+.card-body{
+    display:flex;
+}
+.box{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+    
